@@ -3,6 +3,7 @@
 	"author": "Jason Hartgraves",
 	"description": "Example project for apis_and_microservices cert work",
 	"keywords": [ "freecodecamp", "jharttech", "cert", "example", "practice" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
