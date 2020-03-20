@@ -4,6 +4,7 @@
 	"description": "Example project for apis_and_microservices cert work",
 	"keywords": [ "freecodecamp", "jharttech", "cert", "example", "practice" ],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
